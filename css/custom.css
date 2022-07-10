@@ -1,0 +1,19 @@
+html{
+    background-color: #5A99F6;
+}
+
+#main{
+    margin-top: 10vh;
+    padding: 10vh 0;
+}
+
+#header-text{
+    margin-bottom: 10%;
+}
+#footer-text{
+    position: fixed;
+    bottom:0;
+}
+#result{
+    display: none
+}
